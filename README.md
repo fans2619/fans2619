@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fan&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fans2619)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fans2619)](https://github.com/fans2619/github-readme-stats)
