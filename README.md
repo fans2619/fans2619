@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fans2619&range=last_year) -->
 
-![fan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fans2619&theme=blood&hide_border=true)
+![fan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fans2619&theme=blood)
